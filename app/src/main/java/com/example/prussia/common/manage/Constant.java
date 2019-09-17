@@ -13,7 +13,6 @@ public final class Constant {
      */
     public static final String SOURCE = "android";//网络请求来源
     public static final String HTTP_RANKINGLIST = "http://h5.gamemm.com/ranking/ranking_pass?user_id="; //排行榜
-    public static final int GIFTTYPE = 520;//区分大礼物和小礼物值
     public static final String GIFTURL = "http://static.gamemm.com/images/gift/";//礼物连接
     public static final String AESCOD = "123456";//AES加密钥匙
 
