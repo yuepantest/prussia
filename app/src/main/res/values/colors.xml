@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FFAA00</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <!--半透明的浅灰-->
+    <color name="transparent_gray_light">#89000000</color>
+    <!--半透明的中灰-->
+    <color name="transparent_gray_middle">#70000000</color>
+    <!--半透明的深灰-->
+    <color name="transparent_gray_deep">#a0000000</color>
+    <color name="tip">#88303F9F</color>
+    <color name="black">#ff000000</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FFFF6618</color>
+    <color name="gray">#b8b8b8</color>
+    <color name="green">#5FB236</color>
+    <color name="light_white">#EEEEEE</color>
+    <color name="light_black">#515151</color>
+    <color name="light_pink">#fb9090</color>
+    <color name="light_coffee">#A58D5E</color>
+    <color name="light_gray">#AAAAAA</color>
+    <color name="light_red">#EC4A48</color>
+    <color name="light_blue">#039BE5</color>
+    <color name="dark_red">#B93221</color>
+    <color name="yellow_false">#FFE500</color>
+    <color name="yellow_true">#E9D30C</color>
+    <color name="pickerview_timebtn_nor">#057dff</color>
+    <color name="pickerview_timebtn_pre">#c2daf5</color>
+    <color name="pickerview_bg_topbar">#f5f5f5</color>
+    <!--地区选择控件-->
+    <color name="pickerview_topbar_title">#000000</color>
+    <color name="pickerview_wheelview_textcolor_out">#a8a8a8</color>
+    <color name="pickerview_wheelview_textcolor_center">#2a2a2a</color>
+    <color name="pickerview_wheelview_textcolor_divider">#d5d5d5</color>
+    <color name="pickerview_bgColor_default">#FFFFFFFF</color>
+    <color name="pickerview_bgColor_overlay">#60000000</color>
+    <!--通用背景色-->
+    <color name="common_bg">@color/white</color>
+    <!--通用触摸背景色-->
+    <color name="common_touch_bg">#E3E3E3</color>
+    <!--通用背景色-->
+    <color name="common_gray_bg">#f4f4f4</color>
+    <!--通用一级标题的颜色-->
+    <color name="common_h1">#212121</color>
+    <!--通用二级标题的颜色-->
+    <color name="common_h2">#727272</color>
+    <!--通用三级标题的颜色-->
+    <color name="common_h3">#B2B2B2</color>
+    <!--标题分割线-->
+    <color name="title_divider">#FFEEEEEE</color>
+    <!--通用分割线细-->
+    <color name="common_divider_narrow">#E3E3E3</color>
+    <!--通用分割线粗-->
+    <color name="common_divider_wide">@color/light_white</color>
+    <color name="reader_menu_bg_color">#191919</color>
+    <color name="read_theme_white">#ffffff</color>
+    <color name="read_theme_green">#bed0cf</color>
+    <color name="read_theme_yellow">#e6dbbf</color>
+    <color name="read_theme_gray">#AAAAAA</color>
+    <color name="read_theme_night">#000000</color>
+    <!--章节标题夜间颜色-->
+    <color name="chapter_title_night">#292929</color>
+    <!--章节内容夜间颜色-->
+    <color name="chapter_content_night">#444444</color>
+    <!--章节标题日间颜色-->
+    <color name="chapter_title_day">#837B63</color>
+    <!--章节内容夜间颜色-->
+    <color name="chapter_content_day">#3B3220</color>
+    <!--阅读页顶部字体颜色-->
+    <color name="book_read_top_text">#D1D1D1</color>
+    <!--阅读页底部字体颜色-->
+    <color name="book_read_bottom_text">#767777</color>
+    <!--阅读页底部选中字体颜色-->
+    <color name="book_read_bottom_select_text">#4fc2f1</color>
+    <!--性别选择颜色值-->
+    <color name="gender_select_male_normal">#B0E2FF</color>
+    <color name="gender_select_male_pressed">#B2DFEE</color>
+    <color name="gender_select_female_normal">#EEA9B8</color>
+    <color name="gender_select_female_pressed">#EEA2AD</color>
+    <color name="shape">#CDCDCD</color>
+    <color name="red_ff4a57">#ff4a57</color>
+    <color name="shadow">#25808080</color>
+    <color name="c1olorAccent">#ffffff</color>
+    <color name="yellow_50">#FFD11B</color>
+    <color name="yellow_30">#FEA501</color>
+    <color name="pink_30">#FD7071</color>
+    <color name="blue_30">#20C1FD</color>
+    <color name="white_30">#F2F2F2</color>
+    <color name="white_80">#FAFAFA</color>
+    <color name="orange_500">#FF9800</color>
+    <color name="green_300">#81C784</color>
+    <color name="gray_20">#B3B3B3</color>
+    <color name="gray_80">#BEBBB4</color>
+    <color name="gray_light_30">#E5E5E5</color>
+    <color name="font_gray">#656565</color>
+    <color name="gray_screening">#FF999999</color>
+    <color name="green_shiming">#FF00BA3B</color>
+    <color name="black_80">#222222</color>
+    <color name="black_alpha_45">#71000000</color>
+    <color name="black_alpha_30">#48000000</color>
+    <color name="black_alpha_60">#4f000000</color>
+    <color name="background_dark">#212121</color>
+    <color name="media_controller_bg">#99000000</color>
+    <color name="font_normal">#555555</color>
+    <color name="line_bg">#e6e6e6</color>
+    <color name="navigation_background_light">#FFF8F8F8</color>
+    <color name="navigation_subtitle_primary_text">#FFFFFFFF</color>
+    <color name="navigation_subtitle_secondary_text">#BFFFFFFF</color>
+    <color name="card_view_background">@color/white</color>
+    <color name="pink_text_color">#fb7299</color>
+    <color name="item_tag_background">@color/white</color>
+    <color name="item_tag_stroke_background">@color/white_30</color>
+    <color name="refresh_pink_background">#fb7299</color>
+    <color name="bili_logo_pink_color">#fb7299</color>
+    <color name="focus_text_color">#fb7299</color>
+    <color name="focus_bg_color">@color/white</color>
+    <color name="window_background">#eaeaea</color>
+    <color name="theme_color_primary">#fb7299</color>
+    <color name="theme_color_primary_dark">#b85671</color>
+    <color name="theme_color_primary_trans">#99f0486c</color>
+    <color name="theme_color_secondary">#fb7299</color>
+    <color name="gray_dark">#999999</color>
+    <color name="gray_trans">#44999999</color>
+    <color name="gray_light">#dcdcdc</color>
+    <color name="colorBlack">#000000</color>
+    <!-- theme color -->
+    <color name="pink">#fb7299</color>
+    <color name="pink_dark">#b85671</color>
+    <color name="pink_trans">#99f0486c</color>
+    <color name="blue">#2196F3</color>
+    <color name="blue_dark">#123e71</color>
+    <color name="blue_trans">#B41A78C3</color>
+    <color name="purple">#673AB7</color>
+    <color name="purple_dark">#311e84</color>
+    <color name="purple_trans">#99673AB7</color>
+    <color name="green_dark">#2E7D32</color>
+    <color name="green_trans">#994CAF50</color>
+    <color name="green_light">#8BC34A</color>
+    <color name="green_light_dark">#558B2F</color>
+    <color name="green_light_trans">#998BC34A</color>
+    <color name="yellow">#FDD835</color>
+    <color name="yellow_dark">#FBC02D</color>
+    <color name="yellow_trans">#99FDD835</color>
+    <color name="orange_dark">#EF6C00</color>
+    <color name="orange_trans">#99FF9800</color>
+    <color name="red_dark">#C62828</color>
+    <color name="red_trans">#99F44336</color>
+    <color name="search_background">#FFF4F4F4</color>
+    <color name="tv_chat_room_content">#FF002A0C</color>
+    <!--字体颜色-->
+    <!--浅灰色-->
+    <color name="orange_white">#FFe7da</color>
+    <color name="decoration_title_font">#FF666666</color>
+    <color name="textcolerhui">#FF999999</color>
+    <color name="colorHei">#FF333333</color>
+    <color name="colorHeiClick">#FF171717</color>
+    <color name="colorHint">#FFcccccc</color>
+    <!--主色-->
+    <!--品牌色：按钮标签图标-->
+    <color name="yellow_Brand">#FFE500</color>
+    <color name="colorYellow_bg">#FFFFE500</color>
+    <!--按钮颜色和icon：勾选按妞，充值按钮，icon的描边-->
+    <color name="black_fill">#333333</color>
+    <!--新版背景色-->
+    <color name="gray_white_background">#f9f9f9</color>
+    <!--文字颜色-->
+    <!--强调色：突出的数量或文字显示-->
+    <color name="yellow_emphasize">#FFAA00</color>
+    <color name="yellow_emphasize_trans">#FFFFE92E</color>
+    <!--强调色：价格文字，删除按钮，提示标签，接单状态-->
+    <color name="red_emphasize">#FF5050</color>
+    <!--在线状态，文字颜色-->
+    <color name="green_online_state">#35D0B9</color>
+    <!--我的账户文字颜色-->
+    <color name="green_account">#00C970</color>
+    <!--我的账户文字颜色-->
+    <color name="red_account">#FF3C3C</color>
+    <!--用于一级文字信息-->
+    <color name="black_first_level">#333333</color>
+    <!--用于二级文字信息-->
+    <color name="black_second_level">#333333</color>
+    <!--用于说明文字信息-->
+    <color name="black_instruction">#999999</color>
+    <!--用于反白文字-->
+    <color name="write_contra">#FFFFFF</color>
+    <!--辅色-->
+    <!--用于分割线-->
+    <color name="gray_dividing_line">#EEEEEE</color>
+    <color name="gray_point_bg">#80FFFFFF</color>
+    <!--分割模块颜色，聊天底色-->
+    <color name="gray_segmentation">#F4F4F4</color>
+    <!--按钮未选中颜色-->
+    <color name="gray_unselected">#F2F2F2</color>
+    <color name="pop_black">#33000000</color>
+    <color name="pop_title">#FFF9F9F9</color>
+    <!--首页的快速页面的喵神字的颜色-->
+    <color name="rb_fast_order_text_color_select">#000000</color>
+    <color name="rb_fast_order_text_color_in_select">#FF666666</color>
+    <color name="color_efefef">#efefef</color>
+    <color name="bg_video_controller">#A6000000</color>
+    <color name="bg_video_controller_divider">#FDFDFD</color>
+
+    <!-- 首页上方边框的颜色，深灰 -->
+    <color name="home_border_dark_gray">#E1E1E1</color>
+    <!-- 首页上方三个环形进度条布局的背景颜色，浅灰 -->
+    <color name="home_bg_light_gray">#F5F5F5</color>
+    <!-- 首页上方三个环形进度条文字的颜色，浅黑 -->
+    <color name="home_text_light_black">#333333</color>
+    <!-- 首页上方左侧个人信息代用名文字的颜色，略深黑 -->
+    <color name="home_text_little_dark_black">#323232</color>
+    <!-- 首页上方环形进度条的颜色，蓝色 -->
+    <color name="home_round_progress_bar_blue">#ff3896F3</color>
+    <!-- 首页上方环形进度条的默认颜色，灰色 -->
+    <color name="home_round_progress_bar_default_gray">#D1D1D1</color>
+    <color name="dialog_pressed_bg_color">#919191</color>
+    <!-- dialog条目默认的显示的背景 -->
+    <color name="dialog_unpressed_bg_color">#FFFFFF</color>
+    <!-- dialog背景半透明 -->
+    <color name="black_more_half">#55111111</color>
+    <!-- dialog的ok按钮未选择的颜色 -->
+    <color name="tip_dialog_ok_btn_ina_color">#a39b93</color>
+    <!-- dialog的ok按钮选择的颜色 -->
+    <color name="tip_dialog_ok_btn_a_color">#f5f5f5</color>
+    <!-- layoutRipple 的波纹色 淡蓝色 -->
+    <color name="layoutRipple_color">#1E88E5</color>
+    <!-- layoutRipple 的波纹色 淡蓝色 -->
+    <color name="left_item_color">#0000ee</color>
+    <!-- 滚动指示条颜色-->
+    <color name="scrollbar_color">#FFDDDDDD</color>
+    <color name="corner_border_color">#F3F4F3</color>
+
+    <!-- 排行榜我的界面 -->
+    <color name="rank_mine">#FFFEF9EC</color>
+    <color name="rank_mine_mingci">#FFFF5040</color>
+    <color name="colorGray">#FF666666</color>
+    <!-- 自定义Dialog信息部分文字的颜色 -->
+    <color name="msg_color">#FFFFFFFF</color>
+    <!-- 自定义Dialog中button点击时的颜色 -->
+    <color name="btn_press_color">#FFa5281b</color>
+    <!-- 自定义Dialog中button未点击时的颜色 -->
+    <color name="btn_unpress_color">#FFc0392b</color>
+    <color name="colorHuiHei">#FF666666</color>
+    <color name="colerTextHui">#FF999999</color>
+    <!--消息-->
+    <color name="background">#F9F7F8</color>
+    <color name="background_gray1">#EBEBEB</color>
+    <color name="background_gray2">#E6E6E6</color>
+    <color name="background_gray3">#D4D4D4</color>
+    <color name="background_gray4">#EFEFF4</color>
+    <color name="line">#DDDDDD</color>
+    <color name="line_btn">#BBBBBB</color>
+    <color name="text_gray1">#777777</color>
+    <color name="text_gray2">#767676</color>
+    <color name="text_blue1">#1173CB</color>
+    <color name="text_blue2">#1173CA</color>
+    <color name="panel_black">#25272A</color>
+    <color name="btn_red">#D63F41</color>
+    <color name="btn_red_hover">#E8484B</color>
+    <color name="btn_blue">#0F73CB</color>
+    <color name="btn_blue_hover">#1E86E4</color>
+    <color name="btn_text">#FFFFFF</color>
+    <color name="btn_text_hover">#CCFFFFFF</color>
+    <!--蒙版-->
+    <color name="colorMask">#66000000</color>
+    <color name="c8">#FFFFFF</color>
+    <!--gray7-->
+    <color name="colorGray7">#D8D8D8</color>
+    <color name="shadow_color">#7F000000</color>
+    <color name="line_button">#565758</color>
+    <color name="black_translucent">#50000000</color>
+    <color name="top_bottom">#42BAF8</color>
+</resources>

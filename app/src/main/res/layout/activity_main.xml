@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/fl_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/mian_rb_background" />
+    <!--底部导航栏-->
+    <RelativeLayout
+        android:id="@+id/mian_rb_background"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_alignParentTop="true"
+            android:background="@color/common_divider_narrow" />
+
+        <RadioGroup
+            android:id="@+id/rg_main"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="3dp"
+            android:background="@color/transparent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rb_man"
+                style="@style/bottom_tag_style"
+                android:checked="false"
+                android:drawableTop="@drawable/rb_main_drawable_selector"
+                android:text="首页" />
+
+            <RadioButton
+                android:id="@+id/rb_rankinglist"
+                style="@style/bottom_tag_style"
+                android:drawableTop="@drawable/rb_find_drawable_selector"
+                android:text="发现" />
+
+            <RadioButton
+                android:id="@+id/rb_news"
+                style="@style/bottom_tag_style"
+                android:drawableTop="@drawable/rb_news_drawable_selector"
+                android:text="消息" />
+
+            <RadioButton
+                android:id="@+id/rb_my"
+                style="@style/bottom_tag_style"
+                android:drawableTop="@drawable/rb_my_drawable_selector"
+                android:text="我的" />
+        </RadioGroup>
+    </RelativeLayout>
+</RelativeLayout>
